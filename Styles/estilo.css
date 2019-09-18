@@ -1,39 +1,37 @@
+body{
+	background-color: #33ccff;
+}
 header{
 	width: 90%;
-	height: auto;
+	height: 25%;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: red;
-
+	background-color: #ffdb12;
+	display: table;
 }
 
 #logo{
-	float: left;
-	width: 20%;
-	height: 100%;
-	margin-left: 5%;
-	background-color: yellow;
+	width: 25%;
+	height: auto;
+	display: table-cell;
 }
 
 #logo img{
+	margin-top: 10%;
 	width: 100%;
 	height: auto;
 }
 #titulo{
-	background-color: green;
-	width: 40%;
-	height: 100%;
+	width: 50%;
+	height: auto;
+	display: table-cell;
 	text-align: center;
-	margin-left: auto;
-	margin-right: auto;
 }
 #hora{
 	text-align: center;
-	width: 20%;
-	height: 100%;
-	margin-top: 0%;
-	margin-left: auto;
-	background-color: blue;
+	width: 25%;
+	height: auto;
+	display: table-cell;
 }
 
 nav{
@@ -55,9 +53,9 @@ nav ul{
 
 nav ul li{
 	width: 20%;
-	height: auto;
+	height: 100%;
 	float: left;
-	background-color: orange;
+	background-color: #ffe8ad;
 	text-align: center;
 
 }
@@ -68,26 +66,42 @@ nav ul li{
 	height: 80%;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: green;
+	background-color: #ffff99;
+	text-align: justify;
 }
 
-#descripcion{
-	display: inline-block;
+#descripcionCont{
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
 }
 
-#temporadas{
+#temporadasCont{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
 	display: none;
 }
 
- #reparto{
+ #repartoCont{
+ 	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
 	display: none;
 }
 
-#merchandising{
+#merchCont{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
 	display: none;
 }
 
-#videos{
+#videosCont{
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
 	display: none;
 }
 
