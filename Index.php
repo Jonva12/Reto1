@@ -2,12 +2,13 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="Styles/estilo.css">
-	<title>Plantilla</title>
+	<title>SimpsonsToday</title>
 </head>
 <body>
 	<header>
-		<div>Aqui irá la imagen</div>
-		<div>
+		<div id="logo"><img src="Images/logo.png"></div>
+		<div id="titulo"><h1>Simpsons Today</h1></div>
+		<div id="hora">
 			<?php
 				function horaFecha(){
 					$localtime_assoc = localtime(time(), true);
