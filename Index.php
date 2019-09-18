@@ -9,13 +9,29 @@
 		<div id="logo"><img src="Images/logo.png"></div>
 		<div id="titulo"><h1>Simpsons Today</h1></div>
 		<div id="hora">
+			
 			<?php
 				function horaFecha(){
 					$localtime_assoc = localtime(time(), true);
-					echo($localtime_assoc[tm_hour].':'.$localtime_assoc[tm_min].':'.$localtime_assoc[tm_sec].'</br>');
+					$hour = $localtime_assoc[tm_hour];
+					$min = $localtime_assoc[tm_min];
+					$sec = $localtime_assoc[tm_sec];
+					// Si no les pongo el 0 por delante, la hora saldria asi: "9:7:1" 
+					if ($hour < 10) {
+						$hour = "0".$hour;
+					}
+					if ($min < 10) {
+						$min = "0".$min;
+					}
+					if ($sec < 10) {
+						$sec = "0".$sec;
+					}
+					$time = [$hour, $min, $sec];
+					return $time;
 					echo($localtime_assoc[tm_mday].'/'.$localtime_assoc[tm_mon].'/'.((int)$localtime_assoc[tm_year]+1900));
 				}
-				echo(horaFecha());
+				
+				echo(horafecha());
 			?>
 		</div>
 	</header>
