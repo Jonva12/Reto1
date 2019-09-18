@@ -1,0 +1,1 @@
+var seccion = document.getElementById("Contenido");
