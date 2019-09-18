@@ -26,12 +26,10 @@
 					if ($sec < 10) {
 						$sec = "0".$sec;
 					}
-					$time = [$hour, $min, $sec];
-					return $time;
+					echo($localtime_assoc[tm_hour].':'.$localtime_assoc[tm_min].':'.$localtime_assoc[tm_sec].'</br>');
 					echo($localtime_assoc[tm_mday].'/'.$localtime_assoc[tm_mon].'/'.((int)$localtime_assoc[tm_year]+1900));
 				}
-				
-				echo(horafecha());
+				echo(horaFecha());
 			?>
 		</div>
 	</header>
