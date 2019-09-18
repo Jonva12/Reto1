@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<link rel="stylesheet" type="text/css" href="Styles/estilo.css">
 	<title>Plantilla</title>
 </head>
 <body>
@@ -13,6 +14,7 @@
 					echo($localtime_assoc[tm_hour].':'.$localtime_assoc[tm_min].':'.$localtime_assoc[tm_sec].'</br>');
 					echo($localtime_assoc[tm_mday].'/'.$localtime_assoc[tm_mon].'/'.((int)$localtime_assoc[tm_year]+1900));
 				}
+				echo(horaFecha());
 			?>
 		</div>
 	</header>
