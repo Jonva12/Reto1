@@ -39,6 +39,11 @@
 		<ul>
 			<li id="descripcion">Descripción</li>
 			<li id="temporadas">Temporadas</li>
+			<div id="myDropdown" class="dropdown-content">
+			  <a href="#">Temporada 1</a>
+			  <a href="#">Temporada 2</a>
+			  <a href="#">Temporada 3</a>
+			</div>
 			<li id="reparto">Reparto</li>
 			<li id="merch">Mechandising</li>
 			<li id="videos">Vídeos & links</li>
