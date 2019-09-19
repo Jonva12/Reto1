@@ -51,7 +51,7 @@
 	</nav>
 
 	<section id="Contenido">
-		<div id="descripcionCont">
+		<div id="descripcionCont" class="cont">
 			<p>Los Simpson es una serie estadounidense de animación y comedia, creada por Matt Groening para el canal de televisión de la compañía Fox. La seríe cuenta la vida de una familia tipica trabajadora estadounidense, la cual constituyen los personajes <strong>Homer, Marge, Bart, Lisa y Maggie</strong>*. Esta situada en el pueblo ficticio de Springfield y parodia la cultura americana, su sociedad, televisión y la condición humana.</p>
 			<p>La familia fue concebida por Groening poco antes de solicitar una serie de cortos animados con el productor James L. Brooks. Groening creó una familia disfuncional y nombró a los personajes en honor a los miembros de su propia familia, sustituyendo a Bart por su propio nombre. Los cortometrajes se convirtieron en parte de The Tracey Ullman Show el 19 de abril de 1987. Después de tres temporadas, el boceto se convirtió en un show de media hora en horario estelar y se convirtió en la primera serie de Fox en llegar a las 30 clasificaciones principales en una temporada (1989– 90)</p>
 			<p>Desde su debut el 17 de diciembre de 1989, se han transmitido 662 episodios de Los Simpson. Es la comedia de situación estadounidense de más larga duración, y la serie de televisión estadounidense en horario estelar de mayor duración tanto en temporadas como en número de episodios. The Simpsons Movie, un largometraje, se estrenó en los cines de todo el mundo el 27 de julio de 2007 y recaudó más de $ 527 millones. Luego, el 30 de octubre de 2007, se lanzó un videojuego. Actualmente, The Simpsons terminó de emitirse su trigésima temporada, que comenzó a emitirse el 30 de septiembre de 2018. The Simpsons se renovó por una trigésima primera y trigésima segunda temporada el 6 de febrero de 2019, en la que esta última contendrá el episodio 700. The Simpsons es una producción conjunta de Gracie Films y 20th Century Fox Television y sindicada por 20th Television.</p>
@@ -60,11 +60,11 @@
 				<img src="Images/Familia.jpg">
 			</p>
 		</div>
-		<div id="temporadasCont">
+		<div id="temporadasCont" class="cont">
 			<h3>La serie de "Los Simpsons" actualmente dispone de 32 temporadas.</h3>
 			<h4>Se espera que el </h4>
 		</div>
-		<div id="repartoCont">
+		<div id="repartoCont" class="cont">
 			<h3>Hay una larga serie de personajes en Los Simpson de los cuales los mas importantes serían:</h3>
 			<ul>
 				<li><a href="#homer"> Homer J. Simpson</a></li>
@@ -119,10 +119,10 @@
 				<p>En lugar de hablar, Maggie es conocida por producir un sonido característico de "succión" de su chupete. Este efecto de sonido fue proporcionado originalmente por el creador del programa Matt Groening, para los primeros episodios de The Tracey Ullman Show, y también por Gabor Csupo. El ruido de succión se escucha en todas las apariciones de Maggie hasta la fecha, y generalmente es un archivo de audio de las grabaciones iniciales de Groening o Csupo (de los primeros episodios del programa). Además de su ruido de succión, se sabe que Maggie hace otros ruidos, como chillidos ocasionales y balbuceos. En la mayoría de los casos, estas vocalizaciones son proporcionadas por Nancy Cartwright o Yeardley Smith.</p>
 			</div>
 		</div>
-		<div id="merchCont">
+		<div id="merchCont" class="cont">
 			
 		</div>
-		<div id="videosCont">
+		<div id="videosCont" class="cont">
 			
 		</div>
 
