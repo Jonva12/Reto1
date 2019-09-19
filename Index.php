@@ -41,10 +41,10 @@
 			<li id="temporadas">
 				<button onmouseover="myFunction()" class="dropbtn">Temporadas</button>
 				<div id="myDropdown" class="dropdown-content">
-				  <a href="#">Temporadas 1-9</a>
-				  <a href="#">Temporadas 10-19</a>
-				  <a href="#">Temporadas 20-29</a>
-				  <a href="#">Temporadas 30+</a>
+				  <a href="#temp1">Temporadas 1-9</a>
+				  <a href="#temp2">Temporadas 10-19</a>
+				  <a href="#temp3">Temporadas 20-29</a>
+				  <a href="#temp4">Temporadas 30+</a>
 				</div>
 			</li>			
 			<li id="reparto">Reparto</li>
@@ -68,12 +68,27 @@
 		</div>
 		<div id="temporadasCont" class="cont">
 			<h3>La serie de "Los Simpsons" actualmente dispone de 32 temporadas.</h3>
-			<h5>Temporada 1</h5>
+			<h5 id="temp1">Temporada 1</h5>
 			<p>17/12/1989 - 13/03/1990</p>
+			<video width="400" controls>
+			  <source src="Videos_Links/Cap1.mp4" type="video/mp4">
+			  <source src="Videos_Links/Cap1.ogg" type="video/ogg">
+			  Your browser does not support HTML5 video.
+			</video>
 			<h5>Temporada 2</h5>
 			<p>11/10/1990 - 11/07/1991</p>
+			<video width="400" controls>
+			  <source src="Videos_Links/Cap5.mp4" type="video/mp4">
+			  <source src="Videos_Links/Cap5.ogg" type="video/ogg">
+			  Your browser does not support HTML5 video.
+			</video>
 			<h5>Temporada 3</h5>
 			<p>19/09/1991 - 27/08/1992</p>
+			<video width="400" controls>
+			  <source src="Videos_Links/Cap9" type="video/mp4">
+			  <source src="Videos_Links/Cap8.ogg" type="video/ogg">
+			  Your browser does not support HTML5 video.
+			</video>
 			<h5>Temporada 4</h5>
 			<p>24/09/1992 - 13/05/1993</p>
 			<h5>Temporada 5</h5>
@@ -86,7 +101,7 @@
 			<p>27/10/1996 - 18/05/1997</p>
 			<h5>Temporada 9</h5>
 			<p>21/09/1997 - 17/05/1998</p>
-			<h5>Temporada 10</h5>
+			<h5 id="temp2">Temporada 10</h5>
 			<p>23/08/1998 - 16/05/1999</p>
 			<h5>Temporada 11</h5>
 			<p>26/09/1999 - 14/05/2000</p>
@@ -106,7 +121,7 @@
 			<p>10/09/2006 - 20/05/2007</p>
 			<h5>Temporada 19</h5>
 			<p>23/09/2007 - 18/05/2008</p>
-			<h5>Temporada 20</h5>
+			<h5 id="temp3">Temporada 20</h5>
 			<p>28/09/2008 - 17/05/2009</p>
 			<h5>Temporada 21</h5>
 			<p>27/09/2009 - 23/05/2010</p>
@@ -126,7 +141,7 @@
 			<p>27/09/2016 - 22/05/2017</p>
 			<h5>Temporada 29</h5>
 			<p>26/09/2017 - 22/05/2018</p>
-			<h5>Temporada 30</h5>
+			<h5 id="temp4">Temporada 30</h5>
 			<p>30/09/2018 - 12/05/2019</p>
 			<h5>Temporada 31</h5>
 			<p>29/09/2019 - En emisión</p>
