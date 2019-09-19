@@ -142,7 +142,7 @@
 			</ul>
 			<div id="homer">
 				<h4>Homer J. Simpson</h4>
-				<p class="">
+				<p class="pImg">
 					<img src="Images/Homer.jpg">
 				</p>
 				<p>Homer Jay Simpson es un personaje ficticio y el protagonista de la comedia animada estadounidense Los Simpson. Dan Castellaneta le da voz y apareció por primera vez en televisión, junto con el resto de su familia, en el corto "Buenas noches" de The Tracey Ullman Show el 19 de abril de 1987. Homer fue creado y diseñado por el dibujante Matt Groening mientras esperaba. El vestíbulo de la oficina de James L. Brooks. Groening había sido llamado para lanzar una serie de cortos basados en su historieta Life in Hell, pero en su lugar decidió crear un nuevo conjunto de personajes. Llamó al personaje por su padre, Homer Groening.</p>
@@ -151,13 +151,13 @@
 				<p>Homer es uno de los personajes más influyentes en la historia de la televisión, y es ampliamente considerado como un ícono cultural estadounidense. El periódico británico The Sunday Times lo describió como "La mayor creación cómica del tiempo [moderno]". Fue nombrado el mejor personaje "de los últimos 20 años" en 2010 por Entertainment Weekly, fue calificado como el segundo mejor personaje de dibujos animados por TV Guide, detrás de Bugs Bunny, y fue votado como el mejor personaje de televisión de todos los tiempos por los televidentes de Channel 4. Por expresar a Homer, Castellaneta ha ganado cuatro premios Primetime Emmy por su destacada actuación de doblaje y un premio Annie de logros especiales. En 2000, Homer y su familia recibieron una estrella en el Paseo de la Fama de Hollywood.</p>
 				<p>La voz de Homer es interpretada por Dan Castellaneta, quien interpreta a muchos otros personajes, incluidos el abuelo Simpson, Krusty the Clown, Barney Gumble, Groundskeeper Willie, el alcalde Quimby y Hans Moleman. Castellaneta había formado parte del elenco habitual de The Tracey Ullman Show y anteriormente había hecho un trabajo de doblaje en Chicago junto a su esposa Deb Lacusta. Se necesitaban voces para los cortos de Los Simpson, por lo que los productores decidieron pedirle a Castellaneta y a su compañera de reparto Julie Kavner que expresen a Homer y Marge en lugar de contratar más actores. En los cortos y las primeras temporadas del espectáculo de media hora, la voz de Homer es diferente de la mayoría de la serie. La voz comenzó como una impresión suelta de Walter Matthau, pero Castellaneta no pudo "obtener suficiente poder detrás de esa voz", o mantener su impresión de Matthau para las sesiones de grabación de nueve a diez horas, y tuvo que encontrar algo más fácil. Durante la segunda y tercera temporada del espectáculo de media hora, Castellaneta "bajó la voz" y la desarrolló como más versátil y humorística, permitiendo a Homer una gama más completa de emociones.</p>
 				<p>La voz normal de Castellaneta no se parece en nada a la de Homer. Para interpretar la voz de Homer, Castellaneta baja la barbilla al pecho y se dice que "suelta su coeficiente intelectual". Mientras estuvo en este estado, ha improvisado varios de los comentarios menos inteligentes de Homer, como la línea "S-M-R-T; quiero decir, S-M-A-R-T". de "Homer Goes to College" (quinta temporada, 1993), que fue un error genuino cometido por Castellaneta durante la grabación. A Castellaneta le gusta permanecer en el personaje durante las sesiones de grabación, y trata de visualizar una escena para poder darle la voz adecuada. A pesar de la fama de Homer, Castellaneta afirma que rara vez es reconocido en público, "excepto, tal vez, por un fanático acérrimo".</p>
-				<p class="">
+				<p class="pImg">
 					<img src="Images/Actor_Voz_Homer.jpg">
 				</p>
 			</div>
 			<div id="marge">
 				<h4>Marge Simpson</h4>
-				<p class="">
+				<p class="pImg">
 					<img src="Images/Marge.png">
 				</p>
 				<p>Marjorie Jacqueline "Marge" Simpson (Bouvier) es un personaje ficticio de la comedia animada estadounidense Los Simpson y parte de la familia del mismo nombre. Ella es la voz de Julie Kavner y apareció por primera vez en televisión en el corto "Buenas noches" de The Tracey Ullman Show el 19 de abril de 1987. Marge fue creado y diseñado por el dibujante Matt Groening mientras esperaba en el vestíbulo de la oficina de James L. Brooks . Groening había sido llamado para lanzar una serie de cortos basados en Life in Hell, pero en su lugar decidió crear un nuevo conjunto de personajes. Llamó al personaje después de su madre Margaret Groening.</p>
@@ -165,13 +165,13 @@
 				<p>El distintivo peinado de colmena azul de Marge se inspiró en una combinación de la novia de "La novia de Frankenstein" y el estilo que llevaba Margaret Groening en la década de 1960. Se le pidió a Julie Kavner, miembro del elenco original de The Tracey Ullman Show, que hiciera una voz de Marge para que no se necesitaran más actores de voz. Kavner ha ganado varios premios por expresar a Marge, incluido un Premio Primetime Emmy a la Mejor Interpretación de Voz en off en 1992. También fue nominada para un Premio Annie a la Mejor Actuación de Voz en una Película Animada por su actuación en The Simpsons Movie. En 2000, Marge, junto con el resto de su familia, recibió una estrella en el Paseo de la Fama de Hollywood.</p>
 				<p>La voz de Marge es interpretada por Julie Kavner, quien también interpreta las voces de la madre de Marge, Jacqueline, y sus hermanas Patty y Selma. Kavner había formado parte del elenco habitual de The Tracey Ullman Show. Se necesitaban voces para los cortometrajes, por lo que los productores decidieron pedirle a Kavner y al compañero de reparto Dan Castellaneta que expresen a Marge y Homer en lugar de contratar más actores. Parte del contrato de Kavner dice que nunca tendrá que promocionar a Los Simpson en video y rara vez interpreta la voz de Marge en público porque cree que "destruye la ilusión. La gente siente que son personas reales". Kavner toma en serio las sesiones de grabación y siente que la actuación de voz es "un poco más limitante que la actuación en vivo. Y no tengo nada que ver con el movimiento de mi personaje".</p>
 				<p>La voz áspera de Marge es solo ligeramente diferente de la de Kavner, que tiene una "voz de grava melosa" que, según ella, se debe a "un golpe en [sus] cuerdas vocales". Mientras Marge es su personaje más famoso, los personajes favoritos de Kavner son Patty y Selma porque "son muy divertidos y tristes al mismo tiempo". En The Simpsons Movie, algunas escenas, como el mensaje de video de Marge a Homer, se grabaron más de cien veces, dejando a Kavner exhausta.</p>
-				<p class="">
+				<p class="pImg">
 					<img src="Images/Actriz_Voz_Marge.jpg">
 				</p>
 			</div>
 			<div id="bart">
 				<h4>Bart Simpson</h4>
-				<p class="">
+				<p class="pImg">
 					<img src="Images/Bart.png">
 				</p>
 				<p>Bartholomew JoJo "Bart" Simpson es un personaje ficticio de la serie de televisión animada estadounidense Los Simpson y parte de la familia Simpson. Tiene la voz de Nancy Cartwright y apareció por primera vez en televisión en el corto "Buenas noches" de The Tracey Ullman Show el 19 de abril de 1987. El dibujante Matt Groening creó y diseñó a Bart mientras esperaba en el vestíbulo de la oficina de James L. Brooks. Groening había sido llamado para lanzar una serie de cortos basados en su historieta, Life in Hell, pero en su lugar decidió crear un nuevo conjunto de personajes. Mientras que el resto de los personajes llevan el nombre de los miembros de la familia de Groening, el nombre de Bart es un anagrama de la palabra mocoso. Después de aparecer en The Tracey Ullman Show durante tres años, la familia Simpson recibió su propia serie en Fox, que se estrenó el 17 de diciembre de 1989.</p>
@@ -181,13 +181,13 @@
 				<p>Durante las dos primeras temporadas de The Simpsons, Bart fue el personaje principal del espectáculo y "Bartmania" se produjo, generando mercancías con el tema de Bart Simpson promocionando su actitud rebelde y orgullo por el bajo rendimiento, lo que causó que muchos padres y educadores lo eligieran como un mal modelo a seguir. para niños. Alrededor de la tercera temporada, la serie comenzó a centrarse más en la familia en su conjunto, aunque Bart sigue siendo un personaje destacado. Time nombró a Bart una de las 100 personas más importantes del siglo XX, y fue nombrado "artista del año" en 1990 por Entertainment Weekly.</p>
 				<p>La voz de Bart es proporcionada por Nancy Cartwright, quien expresa varios otros personajes infantiles en Los Simpson, incluidos Nelson Muntz, Ralph Wiggum, Todd Flanders y Kearney. Si bien los papeles de Homer y Marge fueron asignados a Dan Castellaneta y Julie Kavner porque ya formaban parte del elenco de The Tracey Ullman Show, los productores decidieron celebrar el reparto para los papeles de Bart y Lisa. Inicialmente, se le había pedido a Yeardley Smith que hiciera una audición para el papel de Bart, pero la directora de casting Bonita Pietila creía que su voz era demasiado alta. Más tarde, Smith recordó: "Siempre soné demasiado como una niña. Leí dos líneas como Bart y me dijeron:" ¡Gracias por venir! ". Smith recibió el papel de Lisa. El 13 de marzo de 1987, Nancy Cartwright fue a audicionar para el papel de Lisa. Después de llegar a la audición, descubrió que Lisa simplemente fue descrita como la "hija del medio" y que en ese momento no tenía mucha personalidad. Cartwright se interesó más en el papel de Bart, quien fue descrito como "desviado, de bajo rendimiento, odiando a la escuela, irreverente, [e] inteligente". Matt Groening la dejó probar el papel, y al escucharla leer, le dio el trabajo en el acto. Cartwright es el único de los seis miembros principales del elenco de Los Simpson que había sido entrenado profesionalmente en la actuación de voz antes de trabajar en el programa.</p>
 				<p>Se dice que la voz normal de Cartwright no tiene "rastros obvios de Bart". La voz vino naturalmente a Cartwright; antes de The Tracey Ullman Show, ella había usado elementos de ella en programas como My Little Pony, Snorks y Pound Puppies. Cartwright describe la voz de Bart como fácil de interpretar, diciendo: "Algunos personajes requieren un poco más de esfuerzo, control de las vías respiratorias superiores, sea lo que sea técnicamente. Pero Bart es fácil de hacer. Simplemente puedo entrar sin dificultad". Por lo general, hace cinco o seis lecturas de cada línea para darles a los productores más para trabajar. En episodios flashforward, Cartwright todavía proporciona la voz de Bart. Para "La boda de Lisa", (sexta temporada, 1995) la voz de Bart se bajó electrónicamente.</p>
-				<p class="">
+				<p class="pImg">
 					<img src="Images/Actriz_Voz_Bart.jpg">
 				</p>
 			</div>
 			<div id="lisa">
 				<h4>Lisa Simpson</h4>
-				<p class="">
+				<p class="pImg">
 					<img src="Images/Lisa.png">
 				</p>
 				<p>Lisa Marie Simpson es un personaje ficticio de la serie animada de televisión Los Simpson. Es la hija del medio y la más inteligente de la familia Simpson. Con la voz de Yeardley Smith, Lisa nació como personaje en el corto "Good Night" de The Tracey Ullman Show el 19 de abril de 1987. El dibujante Matt Groening la creó y diseñó mientras esperaba conocer a James L. Brooks. Groening había sido invitado a lanzar una serie de cortos basados en su cómic Life in Hell, pero en cambio decidió crear un nuevo conjunto de personajes. Llamó a la hija mayor de Simpson por su hermana menor Lisa Groening Bartlett.</p>
@@ -195,13 +195,13 @@
 				<p>Yeardley Smith originalmente probó el papel de Bart, mientras que Nancy Cartwright (quien más tarde fue elegida como la voz de Bart) probó para Lisa. Los productores consideraron la voz de Smith demasiado alta para un niño, por lo que le dieron el papel de Lisa. En los cortos de Tracey Ullman Show, Lisa era una especie de "mujer Bart" que reflejaba la travesura de su hermano, pero a medida que la serie progresaba, se convirtió en una voz liberal de la razón que atrajo tanto elogios como críticas de los fanáticos del espectáculo. Debido a su estilo de cabello puntiagudo inusual, muchos animadores consideran que Lisa es el personaje de Simpson más difícil de dibujar.</p>
 				<p>Si bien los papeles de Homer y Marge se les dieron a Dan Castellaneta y Julie Kavner porque ya formaban parte del elenco de Tracey Ullman Show, los productores decidieron celebrar el reparto para los papeles de Bart y Lisa. Nancy Cartwright tenía la intención de audicionar para el papel de Lisa, pero no le gustó la descripción insípida del personaje (Lisa fue descrita simplemente como el "hijo del medio") y leyó el papel de Bart. La directora de casting Bonita Pietila trajo a Yeardley Smith para una audición después de verla actuar en la obra Living on Salvation Street. Smith dudaba en audicionar para una serie animada, pero su agente la había persuadido para que lo intentara. Smith audicionó originalmente para el papel de Bart, pero Pietila creía que su voz era demasiado alta. Más tarde, Smith recordó: "Siempre soné demasiado como una niña, leí dos líneas como Bart y me dijeron: '¡Gracias por venir!'". Pietila le ofreció a Smith el papel de Lisa.</p>
 				<p>Smith y los escritores del programa trabajaron para darle a Lisa una personalidad más definida, y ella se ha desarrollado mucho durante la serie. En sus memorias de 2000 Mi vida como un niño de 10 años, Cartwright escribió: "con el ingenio brillante de los escritores y la interpretación irónica, honesta y sincera, Yeardley Smith ha convertido a Lisa una luz brillante de liderazgo, llena de compasión y competencia más allá de sus años. Lisa Simpson es el tipo de niño que no solo queremos que nuestros hijos sean, sino también el tipo de niño que queremos que sean todos los niños. Pero, en ese momento, en The Tracey Ullman Show, ella era solo una niña animada de ocho años que no tenía personalidad ".</p>
-				<p class="">
+				<p class="pImg">
 					<img src="Images/Actriz_Voz_Lisa.jpg">
 				</p>
 			</div>
 			<div id="maggie">
 				<h4>Maggie Simpson</h4>
-				<p class="">
+				<p class="pImg">
 					<img src="Images/Maggie.jpeg">
 				</p>
 				<p>Margaret "Maggie" Simpson es un personaje ficticio de la serie animada de televisión Los Simpson. Apareció por primera vez en televisión en el corto "Good Night" de Tracey Ullman Show el 19 de abril de 1987. Maggie fue creada y diseñada por el dibujante Matt Groening mientras esperaba en el vestíbulo de la oficina de James L. Brooks. Recibió su primer nombre de la hermana menor de Groening.</p>
@@ -212,27 +212,110 @@
 			</div>
 		</div>
 		<div id="merchCont" class="cont">
-			<p class="">
-				<img src="Images/camiseta.jpg">
-			</p>	
-			<p class="">
-				<img src="Images/camiseta1.jpg">
-			</p>
-			<p class="">
-				<img src="Images/camiseta2.jpg">
-			</p>
-			<p class="">
-				<img src="Images/camiseta3.jpg">
-			</p>
-			<p class="">
-				<img src="Images/camiseta4.jpg">
-			</p>
-			<p class="">
-				<img src="Images/felpudo.jpg">
-			</p>		
+			<div>
+				<p>Camiseta Homer Atheletic:</p>
+				<p class="pImg">
+					<img src="Images/camiseta.jpg">
+				</p>
+			</div>
+			<div>
+				<p>Camiseta Homer Nirvana:</p>
+				<p class="pImg">
+					<img src="Images/camiseta1.jpg">
+				</p>
+			</div>
+			<div>
+				<p>Camiseta Bart:</p>
+				<p class="pImg">
+					<img src="Images/camiseta2.jpg">
+				</p>
+			</div>
+			<div>
+				<p>Camiseta Best Dad:</p>
+				<p class="pImg">
+					<img src="Images/camiseta3.jpg">
+				</p>
+			</div>
+			<div>
+				<p>Camiseta Homer:</p>
+				<p class="pImg">
+					<img src="Images/camiseta4.jpg">
+				</p>
+			</div>
+			<div>
+				<p>Felpudo Flanders:</p>
+				<p class="pImg">
+					<img src="Images/felpudo.jpg">
+				</p>
+			</div>
+			<div>
+				<p>Peluche Bart:</p>
+				<p class="pImg">
+					<img src="Images/PelucheSimpsonBart.jpg">
+				</p>
+			</div>
+			<div>
+				<p>Duff Reloj:</p>
+				<p class="pImg">
+					<img src="Images/relojDuff.jpg">
+				</p>
+			</div>
+			<div>
+				<p>Taza Golpe de Remo:</p>
+				<p class="pImg">
+					<img src="Images/tazaRemo.jpg">
+				</p>
+			</div>
 		</div>
 		<div id="videosCont" class="cont">
-			
+			<div>
+				<p>Mejores Momentos:</p>
+				<p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/5RuWT11Q84A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</div>
+			<div>
+				<p>Mejores Momentos 2:</p>
+				<p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/wrAoswsvHwg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</div>
+			<div>
+				<p>Mejores Momentos Homer:</p>
+				<p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/19zs-sOZUn4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</div>
+			<div>
+				<p>Mejores Momentos Bart:</p>
+				<p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/TUsF8QOMYrU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</div>
+			<div>
+				<p>Mejores Momentos Marge:</p>
+				<p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/Gj_s-uYylPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</div>
+			<div>
+				<p>Mejores Momentos Moe:</p>
+				<p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/VmzuziFEgk0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</div>
+			<div>
+				<p>Mejores Momentos Sr.Burns:</p>
+				<p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/cjUmL4-i7iw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</div>
+			<div>
+				<p>Mejores Momentos Ralph:</p>
+				<p>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/t9sK3mD5kzc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</p>
+			</div>
 		</div>
 
 

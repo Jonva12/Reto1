@@ -86,15 +86,17 @@ nav ul li{
 	margin-right: auto;
 }
 
-#descripcionCont .pImg{
+.pImg{
 	width: 50%;
 	height: 25%;
 	margin-left: auto;
 	margin-right: auto;
 }
-#descripcionCont .pImg img{
-	width: 80%;
-	height: 80%;
+.pImg img{
+	width: 60%;
+	height: 60%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 #temporadasCont{
