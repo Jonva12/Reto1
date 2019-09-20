@@ -66,7 +66,7 @@
 			</p>
 		</div>
 		<div id="temporadasCont" class="cont">
-			<h3>La serie de "Los Simpsons" actualmente dispone de 32 temporadas.</h3>
+			<h3>La serie de "Los Simpsons" actualmente dispone de 31 temporadas.</h3>
 			<h5 id="temp1">Temporada 1</h5>
 			<p>17/12/1989 - 13/03/1990</p>
 				<iframe width="60%" height="415" src="https://www.youtube.com/embed/nekvVuoiTyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
