@@ -4,6 +4,7 @@
 	<link rel="stylesheet" type="text/css" href="Styles/estilo.css">
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
 	<script type="text/javascript" src="Scripts/script.js"></script>
+	<script type="text/javascript" src="Scripts/jquery.translate.js"></script>
 	<title>SimpsonsToday</title>
 </head>
 <body>
@@ -36,8 +37,8 @@
 	</header>
 	<nav>
 		<ul>
-			<li id="descripcion">Descripción</li>
-			<li id="temporadas">
+			<li class="trn" data-trn-key="descripcion" id="descripcion">Descripción</li>
+			<li class="trn" data-trn-key="temporadas" id="temporadas">
 				<button onmouseover="myFunction()" class="dropbtn">Temporadas</button>
 				<div id="myDropdown" class="dropdown-content">
 				  <a href="#temp1">Temporadas 1-9</a>
@@ -46,14 +47,14 @@
 				  <a href="#temp4">Temporadas 30+</a>
 				</div>
 			</li>			
-			<li id="reparto">Reparto</li>
-			<li id="merch">Mechandising</li>
-			<li id="videos">Vídeos & links</li>
+			<li class="trn" data-trn-key="reparto" id="reparto">Reparto</li>
+			<li class="trn" data-trn-key="merchandising" id="merch">Mechandising</li>
+			<li class="trn" data-trn-key="videos" id="videos">Vídeos & links</li>
 		</ul>
 	</nav>
 
 	<section id="Contenido">
-		<div id="descripcionCont" class="cont">
+		<div class="trn" data-trn-key="descripcionCont" id="descripcionCont" class="cont">
 			<p>Los Simpson es una serie estadounidense de animación y comedia, creada por Matt Groening para el canal de televisión de la compañía Fox. La seríe cuenta la vida de una familia tipica trabajadora estadounidense, la cual constituyen los personajes <strong>Homer, Marge, Bart, Lisa y Maggie</strong>*. Esta situada en el pueblo ficticio de Springfield y parodia la cultura americana, su sociedad, televisión y la condición humana.</p>
 			<p class="pImg">
 				<img src="Images/matt.jpg" alt="creador los simpsons">
@@ -65,7 +66,7 @@
 				<img src="Images/Familia.jpg" alt="Familia los simpsons">
 			</p>
 		</div>
-		<div id="temporadasCont" class="cont">
+		<div class="trn" data-trn-key="temporadasCont" id="temporadasCont" class="cont">
 			<h3>La serie de "Los Simpsons" actualmente dispone de 31 temporadas.</h3>
 			<h5 id="temp1">Temporada 1</h5>
 			<p>17/12/1989 - 13/03/1990</p>
@@ -133,7 +134,7 @@
 			<h5>Temporada 31</h5>
 			<p>29/09/2019 - En emisión</p>
 		</div>
-		<div id="repartoCont" class="cont">
+		<div class="trn" data-trn-key="repartoCont" id="repartoCont" class="cont">
 			<h3>Hay una larga serie de personajes en Los Simpson de los cuales los mas importantes serían:</h3>
 			<ul>
 				<li><a href="#homer"> Homer J. Simpson</a></li>
@@ -214,7 +215,7 @@
 				<p>En lugar de hablar, Maggie es conocida por producir un sonido característico de "succión" de su chupete. Este efecto de sonido fue proporcionado originalmente por el creador del programa Matt Groening, para los primeros episodios de The Tracey Ullman Show, y también por Gabor Csupo. El ruido de succión se escucha en todas las apariciones de Maggie hasta la fecha, y generalmente es un archivo de audio de las grabaciones iniciales de Groening o Csupo (de los primeros episodios del programa). Además de su ruido de succión, se sabe que Maggie hace otros ruidos, como chillidos ocasionales y balbuceos. En la mayoría de los casos, estas vocalizaciones son proporcionadas por Nancy Cartwright o Yeardley Smith.</p>
 			</div>
 		</div>
-		<div id="merchCont" class="cont">
+		<div class="trn" data-trn-key="merchCont" id="merchCont" class="cont">
 
 			<div class="merchDiv">
 				<p>Camiseta Homer</p>
@@ -241,7 +242,7 @@
 				</p>
 			</div>
 		</div>
-		<div id="videosCont" class="cont">
+		<div class="trn" data-trn-key="videosCont" id="videosCont" class="cont">
 			<div>
 				<p>Mejores Momentos:</p>
 				<p>
