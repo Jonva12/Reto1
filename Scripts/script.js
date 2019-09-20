@@ -41,6 +41,11 @@ $(document).ready(function () {
 	  	document.getElementById('videosCont').style.display = 'block';
 	});
 
+	$(document).click(function(event) {
+	    var idioma = $(event.target.value);
+	    traducir(idioma);
+	});
+
 });
 
 // Submenu temporadas
@@ -62,4 +67,11 @@ window.onclick = function(event) {
       }
     }
   }
+}
+
+
+function traducir(idioma){
+	console.log(dict);
+	console.log(idioma.selector);
+	var translator = $('body').translate({lang: idioma.selector, t: dict});
 }

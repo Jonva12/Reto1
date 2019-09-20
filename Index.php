@@ -3,6 +3,7 @@
 <head>
 	<link rel="stylesheet" type="text/css" href="Styles/estilo.css">
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="Scripts/diccionario.js"></script>
 	<script type="text/javascript" src="Scripts/script.js"></script>
 	<script type="text/javascript" src="Scripts/jquery.translate.js"></script>
 	<title>SimpsonsToday</title>
@@ -11,6 +12,7 @@
 	<header>
 		<div id="logo"><img src="Images/logo.png" alt="logo de los simpsons"></div>
 		<div id="titulo"><h1>Simpsons Today</h1></div>
+		<div><button value="es">ES</button><button value="en">EN</button></div>
 		<div id="hora">
 			<?php
 				function horaFecha(){
