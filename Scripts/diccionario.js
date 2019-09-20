@@ -24,7 +24,43 @@ var dict = {
 		en: "<p>The Simpsons is an American series of animation and comedy, created by Matt Groening for the television channel of the Fox company. The series tells the life of a typical American working family, which constitute the characters<strong>Homer, Marge, Bart, Lisa y Maggie</strong>*. It is located in the fictional town of Springfield and parodies American culture, its society, television and the human condition.</p><p class='pImg'><img src='Images/matt.jpg' alt='simpson's creator></p><p>The family was conceived by Groening shortly before requesting a series of animated shorts with producer James L. Brooks. Groening created a dysfunctional family and named the characters in honor of members of his own family, replacing Bart with his own name. The short films became part of The Tracey Ullman Show on April 19, 1987. After three seasons, the sketch became a half-hour show in primetime and became Fox's first series to arrive at 30 main rankings in a season(1989– 90)</p><p>Since its debut on December 17, 1989, 662 episodes of The Simpsons have been broadcast. It is the longest-running American sitcom, and the longest-running American television series in both seasons and number of episodes. The Simpsons Movie, a feature film, premiered in cinemas around the world on July 27, 2007 and raised more than $ 527 million. Then, on October 30, 2007, a video game was released. Currently, The Simpsons finished airing its thirtieth season, which began airing on September 30, 2018. The Simpsons was renewed for a thirty-first and thirty-second season on February 6, 2019, in which the latter will contain episode 700 The Simpsons is a joint production of Gracie Films and 20th Century Fox Television and syndicated by 20th Television.</p><p>The Simpsons received praise during their first nine or ten seasons, which are generally considered their 'Golden Age'. Time named her the best television series of the 20th century, and Erik Adams of The A.V. Club called it 'the greatest achievement of television regardless of format'. On January 14, 2000, the Simpson family received a star on the Hollywood Walk of Fame. He has won dozens of awards since he debuted as a series, including 31 Primetime Emmy Awards, 30 Annie Awards and a Peabody Award. Homer's exclamation phrase 'D'oh!' It has been adopted in the English language, while The Simpsons has influenced many other adult-oriented animated comedies. However, it has also been criticized for a decrease in perceived quality over the years.</p><p class='pImg'><img src='Images/Familia.jpg' alt='Simpson's family></p>",
 	},
 	"temporadasCont": {
-		es: "",
+		es: "<h3>La serie de "Los Simpsons" actualmente dispone de 31 temporadas.</h3>
+			<h5 id="temp1">Temporada 1</h5>
+			<p>17/12/1989 - 13/03/1990</p>
+				<iframe width="60%" height="415" src="https://www.youtube.com/embed/nekvVuoiTyA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<h5>Temporada 2</h5>
+			<p>11/10/1990 - 11/07/1991</p>
+				<iframe width="60%" height="415" src="https://www.youtube.com/embed/F3nYNuwjdlU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<h5>Temporada 3</h5>
+			<p>19/09/1991 - 27/08/1992</p>
+				<iframe width="60%" height="415" src="https://www.youtube.com/embed/qT1oU35QpQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<h5>Temporada 4</h5>
+			<p>24/09/1992 - 13/05/1993</p>
+			<h5>Temporada 5</h5>
+			<p>30/09/1993 - 19/05/1994</p>
+			<h5>Temporada 6</h5>
+			<p>04/09/1994 - 21/05/1995</p>
+			<h5>Temporada 7</h5>
+			<p>17/09/1995 - 19/05/1996</p>
+			<h5>Temporada 8</h5>
+			<p>27/10/1996 - 18/05/1997</p>
+			<h5>Temporada 9</h5>
+			<p>21/09/1997 - 17/05/1998</p>
+			<h5 id="temp2">Temporada 10</h5>
+			<p>23/08/1998 - 16/05/1999</p>
+			<h5>Temporada 11</h5>
+			<p>26/09/1999 - 14/05/2000</p>
+			<h5>Temporada 12</h5>
+			<p>1/11/2000 - 20/05/2001</p>
+			<h5>Temporada 13</h5>
+			<p>6/11/2001 - 22/05/2002</p>
+			<h5>Temporada 14</h5>
+			<p>3/11/2002 - 18/05/2003</p>
+			<h5>Temporada 15</h5>
+			<p>2/11/2003 - 23/05/2004</p>
+			<h5>Temporada 16</h5>
+			<p>7/11/2004 - 15/05/2005</p>
+			<h5>Temporada 17</h5><p>11/09/2005 - 21/05/2006</p><h5>Temporada 18</h5><p>10/09/2006 - 20/05/2007</p><h5>Temporada 19</h5><p>23/09/2007 - 18/05/2008</p><h5 id="temp3">Temporada 20</h5><p>28/09/2008 - 17/05/2009</p><h5>Temporada 21</h5><p>27/09/2009 - 23/05/2010</p><h5>Temporada 22</h5><p>26/09/2010 - 22/05/2011</p><h5>Temporada 23</h5><p>25/09/2011 - 20/05/2012</p><h5>Temporada 24</h5><p>26/09/2012 - 22/05/2013</p><h5>Temporada 25</h5><p>22/09/2013 - 23/05/2014</p><h5>Temporada 26</h5><p>26/09/2014 - 22/05/2015</p><h5>Temporada 27</h5><p>23/09/2015 - 22/05/2016</p><h5>Temporada 28</h5><p>27/09/2016 - 22/05/2017</p><h5>Temporada 29</h5><p>26/09/2017 - 22/05/2018</p><h5 id="temp4">Temporada 30</h5><p>30/09/2018 - 12/05/2019</p><h5>Temporada 31</h5><p>29/09/2019 - En emisión</p>",
 		en: ""
 	},
 	"merchandisingCont": {

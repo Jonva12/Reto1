@@ -12,7 +12,12 @@
 	<header>
 		<div id="logo"><img src="Images/logo.png" alt="logo de los simpsons"></div>
 		<div id="titulo"><h1>Simpsons Today</h1></div>
-		<div><button value="es">ES</button><button value="en">EN</button></div>
+		<div>
+			<select size="1" id="idiomas">
+            	<option value="es">Castellano</option>
+            	<option value="en">Ingles</option>
+    		</select>
+		</div>
 		<div id="hora">
 			<?php
 				function horaFecha(){
