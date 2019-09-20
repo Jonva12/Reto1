@@ -1,12 +1,18 @@
+@font-face {
+    font-family: Simpsons;
+    src: url("../Fonts/simpsonfont/Simpsonfont.ttf") format("opentype");
+}
+
 body{
 	background-image: url("../Images/fondo.jpeg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	font-family: "Arial", Sans-serif, serif;
+	font-family: Simpsons, Helvetica, sans-serif;
+	font-size: 30px;
 }
 header{
 	width: 90%;
-	height: 25%;
+	height: 10%;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: #ffdb12;
@@ -20,7 +26,6 @@ header{
 }
 
 #logo img{
-	margin-top: 10%;
 	width: 100%;
 	height: auto;
 }
@@ -29,6 +34,12 @@ header{
 	height: auto;
 	display: table-cell;
 	text-align: center;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+#titulo h1{
+	width: 100%;
+	height: auto;
 }
 #hora{
 	text-align: center;
@@ -54,11 +65,38 @@ nav ul{
 	padding: 0;
 }
 
+ul{
+	width: 100%;
+	height: 10%;
+	margin-left: auto;
+	margin-right: auto;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+a:link {
+  color: black;
+}
+a:visited, a:active {
+  color: black;
+}
+
+li:hover {
+  background-color: #f2f9d9;
+}
+
 nav ul li{
 	width: 20%;
 	height: 100%;
 	float: left;
 	background-color: #ffe8ad;
+	text-align: center;
+
+}
+ul li{
+	width: 20%;
+	height: 100%;
+	float: left;
 	text-align: center;
 
 }
@@ -91,12 +129,23 @@ nav ul li{
 	height: 25%;
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
 }
 .pImg img{
-	width: 60%;
-	height: 60%;
+	width: 50%;
+	height: auto;
+}
+
+.GpImg{
+	width: 50%;
+	height: 25%;
 	margin-left: auto;
 	margin-right: auto;
+	text-align: center;
+}
+.GpImg img{
+	width: 25%;
+	height: auto;
 }
 
 #temporadasCont{
@@ -108,14 +157,35 @@ nav ul li{
 }
 
 #merchCont{
+	width: 100%;
+	display: table;
 	display: none;
+}
+.merchDiv{
+	text-align: center;
+	display: table-cell;
+	width: 25%;
+}
+.merchDiv:hover{
+	text-align: center;
+	display: table-cell;
+	width: 30%;
+	-webkit-box-shadow: 0px 0px 23px 9px rgba(0,0,0,0.45);
+	-moz-box-shadow: 0px 0px 23px 9px rgba(0,0,0,0.45);
+	box-shadow: 0px 0px 23px 9px rgba(0,0,0,0.45);
+}
+.merchDiv img{
+	width: 80%;
+	background-color: green;
 }
 
 #videosCont{
 	display: none;
+	text-align: center;
 }
 
 footer{
+	clear: both;
 	width: 85%;
 	height: 10%;
 	text-align: center;
