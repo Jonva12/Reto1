@@ -14,7 +14,7 @@
 		<div id="titulo"><h1>Simpsons Today</h1></div>
 		<div>
 			<select size="1" id="idiomas">
-            	<option value="es">Castellano</option>
+            	<option value="es" selected>Castellano</option>
             	<option value="en">Ingles</option>
     		</select>
 		</div>
