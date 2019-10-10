@@ -42,9 +42,9 @@ $(document).ready(function () {
 	});
 
 
-	$(document).onselectionchange(function(){
+	document.getElementById("idiomas").onselectionchange = function(){
 		traducir();
-	});
+	};
 });
 
 // Submenu temporadas
