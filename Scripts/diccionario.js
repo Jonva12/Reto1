@@ -4,8 +4,8 @@ var dict = {
 		es: "Descripcion",
 		en: "Description"
 	},
-	"Seasons": {
-		es: "Seasons",
+	"temporadas": {
+		es: "Temporadas",
 		en: "Seasons"
 	},
 	"reparto": {

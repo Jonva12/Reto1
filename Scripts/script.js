@@ -42,7 +42,7 @@ $(document).ready(function () {
 	});
 
 
-	document.onselectionchange = function(){
+	document.getElementById("idiomas").onclick = function(){
 		traducir();
 	};
 });
